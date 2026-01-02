@@ -46,4 +46,12 @@
   - Year-over-year comparison
   - Integration with SQL / Power B
 
- 
+
+ # Author 
+
+-- Samiksha Aher --
+Aspiring Data Analyst | Data Science Enthusiast
+Power BI | SQL | Python | Data Analytics
+
+** Feel free to connect with me on LinkedIn
+https://www.linkedin.com/in/samiksha-aher-ab3010373
